@@ -21,4 +21,9 @@ public class Coffee  implements Serializable {
     private Money price;
     private Date createTime;
     private Date updateTime;
+
+  public void test(String str)
+  {
+      System.out.println(str);
+  }
 }

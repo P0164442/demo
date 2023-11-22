@@ -13,8 +13,10 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 @ComponentScan("com.example.demo.beanTest2")
 public class annotationBean {
 
- //`12
-//55
+//11
+    //22
+    //33
+    /44
     @Test
     public void test() {
         AnnotationConfigApplicationContext context =

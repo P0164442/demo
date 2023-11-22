@@ -13,8 +13,9 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 @ComponentScan("com.example.demo.beanTest1")
 public class annotationBean {
 
-
-
+//11
+//2
+    //33
     @Test
     public void test() {
         AnnotationConfigApplicationContext context =

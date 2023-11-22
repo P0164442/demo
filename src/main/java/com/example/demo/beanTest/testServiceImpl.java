@@ -7,7 +7,7 @@ public class testServiceImpl implements  testService{
 
 
     @Override
-    public void test(String str) {
+    public void test(String str1111111) {
         System.out.println(str);
     }
 }

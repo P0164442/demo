@@ -16,12 +16,12 @@ public class annotationBean {
 //11
 //2
     //33
- 
+   //55
 //44
     //55
-
+  //55
  //`12
-//31
+//55
     @Test
     public void test() {
         AnnotationConfigApplicationContext context =

@@ -21,7 +21,7 @@ public class annotationBean {
     //55
 
  //`12
-
+//31
     @Test
     public void test() {
         AnnotationConfigApplicationContext context =

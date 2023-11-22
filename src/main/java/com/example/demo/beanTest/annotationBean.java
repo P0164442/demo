@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 @Configuration
-@ComponentScan("com.example.demo.beanTest1")
+@ComponentScan("com.example.demo.beanTest2")
 public class annotationBean {
 
 

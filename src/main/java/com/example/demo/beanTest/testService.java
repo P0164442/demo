@@ -1,5 +1,5 @@
 package com.example.demo.beanTest;
 
 public interface testService {
-    public void test(String str2111111);
+    public void test(String str);
 }
